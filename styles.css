@@ -1,0 +1,10 @@
+body {
+    color: white;
+    background: black;
+}
+
+/* código omitido */
+
+header {
+    border: solid 2px rgb(42, 122, 228);
+}
